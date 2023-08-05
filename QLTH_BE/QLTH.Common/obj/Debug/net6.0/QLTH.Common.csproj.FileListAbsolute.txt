@@ -1,0 +1,12 @@
+D:\Huy_QLTH\QLTH_BE\QLTH.Common\bin\Debug\net6.0\QLTH.Common.deps.json
+D:\Huy_QLTH\QLTH_BE\QLTH.Common\bin\Debug\net6.0\QLTH.Common.dll
+D:\Huy_QLTH\QLTH_BE\QLTH.Common\bin\Debug\net6.0\QLTH.Common.pdb
+D:\Huy_QLTH\QLTH_BE\QLTH.Common\obj\Debug\net6.0\QLTH.Common.csproj.AssemblyReference.cache
+D:\Huy_QLTH\QLTH_BE\QLTH.Common\obj\Debug\net6.0\QLTH.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Huy_QLTH\QLTH_BE\QLTH.Common\obj\Debug\net6.0\QLTH.Common.AssemblyInfoInputs.cache
+D:\Huy_QLTH\QLTH_BE\QLTH.Common\obj\Debug\net6.0\QLTH.Common.AssemblyInfo.cs
+D:\Huy_QLTH\QLTH_BE\QLTH.Common\obj\Debug\net6.0\QLTH.Common.csproj.CoreCompileInputs.cache
+D:\Huy_QLTH\QLTH_BE\QLTH.Common\obj\Debug\net6.0\QLTH.Common.dll
+D:\Huy_QLTH\QLTH_BE\QLTH.Common\obj\Debug\net6.0\refint\QLTH.Common.dll
+D:\Huy_QLTH\QLTH_BE\QLTH.Common\obj\Debug\net6.0\QLTH.Common.pdb
+D:\Huy_QLTH\QLTH_BE\QLTH.Common\obj\Debug\net6.0\ref\QLTH.Common.dll

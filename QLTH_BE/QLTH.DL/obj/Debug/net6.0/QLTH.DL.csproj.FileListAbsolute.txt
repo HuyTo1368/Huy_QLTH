@@ -1,0 +1,15 @@
+D:\Huy_QLTH\QLTH_BE\QLTH.DL\bin\Debug\net6.0\QLTH.DL.deps.json
+D:\Huy_QLTH\QLTH_BE\QLTH.DL\bin\Debug\net6.0\QLTH.DL.dll
+D:\Huy_QLTH\QLTH_BE\QLTH.DL\bin\Debug\net6.0\QLTH.DL.pdb
+D:\Huy_QLTH\QLTH_BE\QLTH.DL\bin\Debug\net6.0\QLTH.Common.dll
+D:\Huy_QLTH\QLTH_BE\QLTH.DL\bin\Debug\net6.0\QLTH.Common.pdb
+D:\Huy_QLTH\QLTH_BE\QLTH.DL\obj\Debug\net6.0\QLTH.DL.csproj.AssemblyReference.cache
+D:\Huy_QLTH\QLTH_BE\QLTH.DL\obj\Debug\net6.0\QLTH.DL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Huy_QLTH\QLTH_BE\QLTH.DL\obj\Debug\net6.0\QLTH.DL.AssemblyInfoInputs.cache
+D:\Huy_QLTH\QLTH_BE\QLTH.DL\obj\Debug\net6.0\QLTH.DL.AssemblyInfo.cs
+D:\Huy_QLTH\QLTH_BE\QLTH.DL\obj\Debug\net6.0\QLTH.DL.csproj.CoreCompileInputs.cache
+D:\Huy_QLTH\QLTH_BE\QLTH.DL\obj\Debug\net6.0\QLTH.DL.csproj.CopyComplete
+D:\Huy_QLTH\QLTH_BE\QLTH.DL\obj\Debug\net6.0\QLTH.DL.dll
+D:\Huy_QLTH\QLTH_BE\QLTH.DL\obj\Debug\net6.0\refint\QLTH.DL.dll
+D:\Huy_QLTH\QLTH_BE\QLTH.DL\obj\Debug\net6.0\QLTH.DL.pdb
+D:\Huy_QLTH\QLTH_BE\QLTH.DL\obj\Debug\net6.0\ref\QLTH.DL.dll

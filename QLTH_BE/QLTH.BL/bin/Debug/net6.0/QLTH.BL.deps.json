@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "QLTH.BL/1.0.0": {
+        "dependencies": {
+          "QLTH.Common": "1.0.0",
+          "QLTH.DL": "1.0.0"
+        },
+        "runtime": {
+          "QLTH.BL.dll": {}
+        }
+      },
+      "QLTH.Common/1.0.0": {
+        "runtime": {
+          "QLTH.Common.dll": {}
+        }
+      },
+      "QLTH.DL/1.0.0": {
+        "dependencies": {
+          "QLTH.Common": "1.0.0"
+        },
+        "runtime": {
+          "QLTH.DL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QLTH.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QLTH.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QLTH.DL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
